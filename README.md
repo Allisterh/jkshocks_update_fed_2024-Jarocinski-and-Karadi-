@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **This is a frozen historical version of the repository.**  
+> The updated version is available at:  
+> **[marekjarocinski/jkshocks_update_fed](https://github.com/marekjarocinski/jkshocks_update_fed)**
+
 ### Updating Monetary Policy and Central Bank Information shocks originally constructed in Jarocinski, M. and Karadi, P. (2020) Deconstructing  Monetary Policy Surprises - The Role of Information Shocks, AEJ:Macro, DOI: http://doi.org/10.1257/mac.20180090
 
 ### Updated shocks:
